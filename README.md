@@ -34,3 +34,4 @@ Python, PyTorch, Google Colab (GPU)
 ## Files
 
 - `multitask.ipynb` — Full training pipeline, experiments, and evaluation
+- `Report.pdf` — [Detailed analysis and discussion](./Report.pdf)
